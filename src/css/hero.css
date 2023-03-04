@@ -1,0 +1,40 @@
+section {
+    margin-top: 20px;
+}
+
+section>div {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-img {
+    width: 40%;
+}
+
+section>h1 {
+    position: absolute;
+    width: 347px;
+    height: 40px;
+    left: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%;
+    /* identical to box height, or 40px */
+    color: #000000;
+}
+
+section>p {
+    position: absolute;
+    height: 56px;
+    left: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 110%;
+    /* or 18px */
+    color: #222222;
+    margin-top: 90px;
+}

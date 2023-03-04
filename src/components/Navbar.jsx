@@ -4,8 +4,8 @@ import '../css/nav.css';
 
 export default function Navbar() {
     return (
-        <div>
+        <nav>
             <img src={logo} className="logo" />
-        </div>
+        </nav>
     )
 }
