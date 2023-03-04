@@ -1,0 +1,24 @@
+.card {
+    /* position: absolute; */
+    width: 200px;
+    font-size: 12px;
+    margin: 150px 36px 50px;
+}
+
+.card--image {
+    width: 100%;
+    border-radius: 9px;
+}
+
+.card--stats {
+    display: flex;
+    align-items: center;
+}
+
+.card--star {
+    height: 14px;
+}
+
+.bold {
+    font-weight: bold;
+}
