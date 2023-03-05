@@ -1,7 +1,7 @@
 .logo {
     display: flex;
     width: 100px;
-    margin: 25px;
+    margin: 70px;
 }
 
 nav {
@@ -59,7 +59,7 @@ nav {
 }
 
 .right-nav>.contact {
-    margin-right: 60px;
+    margin-right: 70px;
     border: #E0E0E0 solid 1px;
     border-radius: 20px;
 }
